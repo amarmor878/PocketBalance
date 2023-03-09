@@ -1,0 +1,28 @@
+.income-container {
+  background-color: #f7f7f7;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.income-label {
+  margin-top: 0;
+}
+
+.income-input-container {
+  display: flex;
+  align-items: center;
+}
+
+.income-input-label {
+  margin-right: 10px;
+}
+
+.income-input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  font-size: 16px;
+  background-color: #f1f1f1;
+}
